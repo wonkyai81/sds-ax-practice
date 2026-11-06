@@ -16,7 +16,8 @@ langchain-chroma
 rank-bm25
 kiwipiepy
 
-# LangGraph (3일차~langgraph-checkpoint-sqlite)
+# LangGraph (3일차~)
+langgraph-checkpoint-sqlite
 langgraph-supervisor
 
 # MCP (4일차~)

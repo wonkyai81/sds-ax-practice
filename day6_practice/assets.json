@@ -1,0 +1,58 @@
+[
+  {
+    "asset_id": "A-1001",
+    "type": "노트북",
+    "model": "갤럭시북4 프로",
+    "owner": "김하늘",
+    "status": "사용중"
+  },
+  {
+    "asset_id": "A-1002",
+    "type": "노트북",
+    "model": "갤럭시북4 프로",
+    "owner": "박도윤",
+    "status": "사용중"
+  },
+  {
+    "asset_id": "A-1003",
+    "type": "노트북",
+    "model": "갤럭시북4",
+    "owner": "이서준",
+    "status": "사용중"
+  },
+  {
+    "asset_id": "A-1004",
+    "type": "노트북",
+    "model": "갤럭시북4",
+    "owner": null,
+    "status": "재고"
+  },
+  {
+    "asset_id": "A-1005",
+    "type": "노트북",
+    "model": "갤럭시북4 프로",
+    "owner": "최민준",
+    "status": "사용중"
+  },
+  {
+    "asset_id": "A-1006",
+    "type": "모니터",
+    "model": "뷰피니티 S8",
+    "owner": "김하늘",
+    "status": "사용중"
+  },
+  {
+    "asset_id": "A-1007",
+    "type": "모니터",
+    "model": "뷰피니티 S8",
+    "owner": "정하은",
+    "status": "사용중"
+  },
+  {
+    "asset_id": "A-1008",
+    "type": "GPU 서버",
+    "model": "NVIDIA A100 80GB",
+    "owner": "이서준",
+    "status": "사용중"
+  }
+]

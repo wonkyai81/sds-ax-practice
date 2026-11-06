@@ -1,0 +1,30 @@
+[
+  {
+    "project_id": "P-2601",
+    "name": "차세대 물류 플랫폼 구축",
+    "team": "물류플랫폼팀",
+    "status": "진행중",
+    "member_count": 12
+  },
+  {
+    "project_id": "P-2602",
+    "name": "클라우드 비용 최적화",
+    "team": "클라우드운영팀",
+    "status": "진행중",
+    "member_count": 7
+  },
+  {
+    "project_id": "P-2603",
+    "name": "물류 관제 대시보드 고도화",
+    "team": "물류플랫폼팀",
+    "status": "진행중",
+    "member_count": 5
+  },
+  {
+    "project_id": "P-2604",
+    "name": "사내 AI 어시스턴트 도입",
+    "team": "클라우드운영팀",
+    "status": "진행중",
+    "member_count": 4
+  }
+]

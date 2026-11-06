@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "김하늘",
+    "team": "클라우드운영팀",
+    "role": "팀장",
+    "email": "haneul.kim@samsungsds.example.com"
+  },
+  {
+    "id": 2,
+    "name": "박도윤",
+    "team": "물류플랫폼팀",
+    "role": "백엔드",
+    "email": "doyun.park@samsungsds.example.com"
+  },
+  {
+    "id": 3,
+    "name": "이서준",
+    "team": "클라우드운영팀",
+    "role": "인프라 엔지니어",
+    "email": "seojun.lee@samsungsds.example.com"
+  },
+  {
+    "id": 4,
+    "name": "최민준",
+    "team": "물류플랫폼팀",
+    "role": "프론트엔드",
+    "email": "minjun.choi@samsungsds.example.com"
+  },
+  {
+    "id": 5,
+    "name": "정하은",
+    "team": "클라우드운영팀",
+    "role": "데이터 분석가",
+    "email": "haeun.jung@samsungsds.example.com"
+  }
+]
